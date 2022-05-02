@@ -1,0 +1,13 @@
+-CRUD
+
+    C: Create (INSERT INTO ...)
+        Insérer des données dans une table d'une base de données
+
+    R: Read (SELECT * FROM ...)
+        Récupérer des données d'une table de la base de données
+
+    U: Update
+        Modifier des données déjà existantes d'une table de la base de données
+
+    D: Delete
+        Supprimer les données d'une table de la base de données 
